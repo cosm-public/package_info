@@ -2,8 +2,12 @@
 name = "package_info_derive"
 description = "Derive macro for exposing Cargo Package Information to Rust code"
 version = "0.1.0"
+homepage = "https://github.com/cosm-eng/package_info"
+repository = "https://github.com/cosm-eng/package_info"
 authors = ["Mike Harkins <mharkins@cosm.com>"]
 edition = "2018"
+license = "MIT"
+keywords = ["package", "fields", "cargo", "manifest", "macro", "derive"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
