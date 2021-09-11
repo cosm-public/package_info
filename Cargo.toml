@@ -12,4 +12,4 @@ keywords = ["package", "fields", "cargo", "manifest"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dev-dependencies]
-package_info_derive = { path = "package_info_derive", version = "0.1", registry = "cosm-cosm-rust" }
+package_info_derive = { path = "package_info_derive", version = "0.1" }
