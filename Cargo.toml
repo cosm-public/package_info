@@ -1,0 +1,11 @@
+[package]
+name = "package_info"
+description = "Crate for exposing Cargo Package Information to Rust code"
+version = "0.1.0"
+authors = ["Mike Harkins <mharkins@cosm.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dev-dependencies]
+package_info_derive = { path = "package_info_derive", version = "0.1", registry = "cosm-cosm-rust" }
